@@ -1,3 +1,4 @@
+
 # ued-share
 
 > ued
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# ---
+vue框架开发的资源学习平台，发布blog文章，个人项目展示，其它的网站分享链接等。。。
+
